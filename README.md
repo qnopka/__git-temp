@@ -7,6 +7,9 @@
 * git status
 * git branch
 * git checkout
+* git merge
+* git push
+* git clone
 
 ## ADVANCED COMMANDS:
 * git restore
